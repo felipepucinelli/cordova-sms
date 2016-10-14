@@ -1,6 +1,9 @@
 Cordova SMS Send Demo
 ------------------------------
 
+![teaser](https://raw.github.com/felipepucinelli/cordova-sms/master/teaser.png)
+
+
 ## Start
 
 To start developing, run:
